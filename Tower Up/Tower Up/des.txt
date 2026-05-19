@@ -1,0 +1,46 @@
+GOAL
+
+Build a climbable tower with Tetris pieces and help the character climb upward.
+
+The tower must be stable and climbable. Bad shapes can trap the player,
+block the path, or collapse after hazards damage the structure.
+
+
+BLOCK CONTROLS
+
+← / →      Move falling piece
+↑          Rotate falling piece
+↓          Soft drop
+
+
+CHARACTER CONTROLS
+
+A / D       	Move left / right
+F / W / SPACE   Jump
+R + W   	Dash up
+R + A   	Dash left
+R + S   	Dash down
+R + D   	Dash right
+
+
+HAZARDS
+
+Fireballs:
+- Can knock tower cells.
+- Can push blocks into new positions.
+- Can damage the player.
+
+Lasers:
+- Can damage cells or the player.
+- Can be blocked with Tetris pieces.
+
+Build around hazards and use falling pieces as cover.
+
+
+OTHER CONTROLS
+
+K      Reset game
+F11    Toggle fullscreen
+ESC    Exit fullscreen
+J      Return to title page
+
